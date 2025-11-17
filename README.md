@@ -1,7 +1,7 @@
 # Site
 
 
-O Site do TecDg
+O Site do TecDig
 
 
 
